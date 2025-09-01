@@ -4,8 +4,12 @@ A big thank you to the open source community for all the great templates! We hop
 
 ## Documents
 - Invoice and Letter by [Jan C. Borchardt](https://jancborchardt.net/), CC0
-- [Minimalist résumé by Benjamin Peng](https://extensions.libreoffice.org/en/extensions/show/5069), CC0
-- [Basic syllabus by Benjamin Peng](https://extensions.libreoffice.org/en/extensions/show/5070), CC0
+- Minimalist résumé:
+  - Created by [Benjamin Peng](https://extensions.libreoffice.org/en/extensions/show/5069), CC0
+  - Refreshed by [Jo Myoung Hee](https://www.myoungheejo.com/), CC0
+- Basic syllabus:
+  - Created by [Benjamin Peng](https://extensions.libreoffice.org/en/extensions/show/5070), CC0
+  - Refreshed by [Jo Myoung Hee](https://www.myoungheejo.com/), CC0
 - Party invitation:
   - [Cakes sprinkles by Brooke Lark](https://stocksnap.io/photo/cakes-sprinkles-QQ2WDV12LM), CC0
   - Layout & text by [Jan C. Borchardt](https://jancborchardt.net/), CC0
@@ -18,16 +22,25 @@ A big thank you to the open source community for all the great templates! We hop
   - [Travel ocean by Altered Reality](https://stocksnap.io/photo/travel-ocean-VROFJZ1RUP), CC0
   - [Ocean waves by JJ Skys the Limit](https://stocksnap.io/photo/ocean-waves-KGRO3GY1DL), CC0
   - Layout by [Jan C. Borchardt](https://jancborchardt.net/), CC0
+- Calendar, Certificate, Menu, and Report by [Jo Myoung Hee](https://www.myoungheejo.com/), CC0
 
 ## Spreadsheets
-- Expense report and Diagram & table by [Jan C. Borchardt](https://jancborchardt.net/), CC0
-- [Timesheet by Rudolf Braumann](https://extensions.libreoffice.org/en/extensions/show/880) (translated to English by [Jan C. Borchardt](https://jancborchardt.net/)), GNU LGPL
+- Expense report:
+  - Created by [Jan C. Borchardt](https://jancborchardt.net/), CC0
+  - Refreshed by [Jo Myoung Hee](https://www.myoungheejo.com/), CC0
+- Diagram & table by [Jan C. Borchardt](https://jancborchardt.net/), CC0
+- Timesheet:
+  - Created by [Rudolf Braumann](https://extensions.libreoffice.org/en/extensions/show/880) (translated to English by [Jan C. Borchardt](https://jancborchardt.net/)), GNU LGPL
+  - Refreshed by [Jo Myoung Hee](https://www.myoungheejo.com/), CC0
+- Checklist and Invoice by [Jo Myoung Hee](https://www.myoungheejo.com/), CC0
+- Business model canvas refreshed by [Jo Myoung Hee](https://www.myoungheejo.com/), CC0
 
 ## Presentations
 - Elegant and Simple by [Jan C. Borchardt](https://jancborchardt.net/), CC0
 - [Modern company by Hervy Qurrotul Ainur Rozi](https://extensions.libreoffice.org/en/extensions/show/5075) (originally "ZamZam"), CC0
 - [Gotong royong by Rania Amina](https://lumbung.gimpscape.org/libreoffice/gotong-royong-by-rania-amina/), CC-BY-SA 4.0
 - [Yellow idea by Dwi Alita](https://lumbung.gimpscape.org/libreoffice/yellow-idea-by-dwi-alita/), CC-BY-SA 4.0
+- Ecosystem, Nostalgia, Onboarding, Pitch deck, Security, and Triangle by [Jo Myoung Hee](https://www.myoungheejo.com/), CC0
 
 ## Text / Markdown files
 - Product plan, Meeting notes, and Readme by [Jan C. Borchardt](https://jancborchardt.net/), CC0
